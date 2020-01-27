@@ -1,0 +1,20 @@
+library model;
+
+export 'ad_brief_entity.dart';
+export 'ad_entity.dart';
+export 'ad_full_entity.dart';
+export 'body_style_entity.dart';
+export 'brand_entity.dart';
+export 'category_entity.dart';
+export 'city_entity.dart';
+export 'country_entity.dart';
+export 'geocoding_response_entity.dart';
+export 'location_entity.dart';
+export 'media_message_entity.dart';
+export 'message_entity.dart';
+export 'model_entity.dart';
+export 'post_message_entity.dart';
+export 'state_entity.dart';
+export 'sub_category_entity.dart';
+export 'transmission_entity.dart';
+export 'user_entity.dart';

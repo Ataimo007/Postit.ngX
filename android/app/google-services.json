@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201323605399",
+    "firebase_url": "https://postit-ng.firebaseio.com",
+    "project_id": "postit-ng",
+    "storage_bucket": "postit-ng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201323605399:android:7fad27779b39b4e21668d2",
+        "android_client_info": {
+          "package_name": "com.example.postit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201323605399-vf9k12q61j3tkheehr4ljupbkh6j13ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.postit",
+            "certificate_hash": "737282db260006c2f4e8588495ac34f2c92c92eb"
+          }
+        },
+        {
+          "client_id": "201323605399-j8vvn66vlrl1n6q6v4fqtalll8qar74h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmC276X1dZrl_UFFfmuj6UX_RfqZq4ShM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201323605399-j8vvn66vlrl1n6q6v4fqtalll8qar74h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
