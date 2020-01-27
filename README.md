@@ -1,16 +1,22 @@
-# postit
+# Postit.ng
+The Postit App provides a platform where users can advertise their goods and services they wish to sell to those interested in buying, and those buyers can acquire sufficient detail about their Ads and who to contact to make a purchase. The Postit App has connected several sellers to potential customers helping them carry out their business with ease.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# The App's Home Page
+![Postit.ng Screenshots](https://github.com/Ataimo007/Postit.ngX/blob/master/screenshots/home.png)
 
-A few resources to get you started if this is your first Flutter project:
+# The Details of an Ad
+![Postit.ng Screenshots](https://github.com/Ataimo007/Postit.ngX/blob/master/screenshots/detail.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# More Info showing similar Ad
+![Postit.ng Screenshots](https://github.com/Ataimo007/Postit.ngX/blob/master/screenshots/details+.png)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+# Different Categories of Ads
+![Postit.ng Screenshots](https://github.com/Ataimo007/Postit.ngX/blob/master/screenshots/category.png)
+
+# Post a new Ad
+![Postit.ng Screenshots](https://github.com/Ataimo007/Postit.ngX/blob/master/screenshots/post.png)
+
+# View your profile
+![Postit.ng Screenshots](https://github.com/Ataimo007/Postit.ngX/blob/master/screenshots/profile.png)
